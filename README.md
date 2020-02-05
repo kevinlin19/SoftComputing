@@ -1,2 +1,2 @@
 # SoftComputing
-柔性演算相關演算法
+柔性演算課程作業: SSO
